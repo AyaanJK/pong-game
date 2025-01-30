@@ -55,13 +55,3 @@ Feel free to not use it since it's pretty much impossible to beat <br/>
 Final Game: <br/>
 <img src="https://i.imgur.com/QLwjoyy.gif" height="80%" width="80%" alt="Pong Game Steps"/>
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
