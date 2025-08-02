@@ -1,4 +1,4 @@
-<h1>Python Pong Game #P001</h1>
+<h1>Pong Game #P001</h1>
 
 <h2>Description</h2>
 A classic game of Pong (with a dodgy AI)
